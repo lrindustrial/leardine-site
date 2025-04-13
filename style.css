@@ -538,3 +538,21 @@ color: white;
     margin-bottom: 10px;
 }
 
+
+.pdf-button {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #0059b3;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.pdf-button:hover {
+    background-color: #003d80;
+}
+
+
