@@ -99,13 +99,14 @@ main {
 
 }
 
-footer {
-    background-color: #cce6ff;
+.footer {
+    background-color: #003366;
+    color: white;
     text-align: center;
-    padding: 10px;
-    position: fixed;
+    padding: 30px 20px;
+    font-size: 14px;
+    position: relative;
     width: 100%;
-    bottom: 0;
 }
 
 .services {
@@ -507,12 +508,14 @@ color: white;
 
 .blog-post {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 0 auto 40px auto;
     background-color: white;
     border-radius: 12px;
     padding: 25px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+
+
 
 .blog-post h3 {
     color: #003d80;
